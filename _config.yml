@@ -12,18 +12,18 @@
 title: John Neper
 
 # Your name to show in the footer
-author: Some Person
+author: John Neper
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  About Me: "About"
+  Portfolio:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "personal "
 
 ################
 # --- Logo --- #
@@ -31,7 +31,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/IMG_1530.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -48,22 +48,22 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "ngniguepafaha@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
+  facebook: John Neper
+  github: JohnNeper
+  twitter: ngniguepafaha@gmail.com
+#   patreon: DeanAttal
+#   youtube: c
+ medium: Ngniguepa Armel
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: Ngniguepa Therence
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+ telephone: +237 659085239
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -139,9 +139,9 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
