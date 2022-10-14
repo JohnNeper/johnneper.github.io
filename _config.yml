@@ -19,7 +19,7 @@ author: John Neper
 ###############################################
 
 navbar-links:
-  About Me: "About"
+  About Me: "about"
   Portfolio:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
